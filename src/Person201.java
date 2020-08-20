@@ -18,7 +18,7 @@ public class Person201 {
 
     /**
      * Construct Person201 object with information
-     * @param name typically first name of person
+     * @param name typically first name of person, !!
      * @param lat latitude, negative for southern hemisphere
      * @param lon longitude, negative for western hemisphere
      * @param phrase for person
