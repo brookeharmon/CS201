@@ -10,7 +10,7 @@ public class Person201 {
      */
     public Person201(){
         // TODO change here
-        myName = "no-name";
+        myName = "Owen";
         myLatitude = 35.9312;
         myLongitude = -79.0058;
         myPhrase = "woto";
@@ -53,8 +53,7 @@ public class Person201 {
      * @return phrase for this person.
      */
     public String getPhrase(){
-        // TODO change here
-        return "woto";
+        return myPhrase;
     }
 
     /**
@@ -62,8 +61,7 @@ public class Person201 {
      * @return name of this person
      */
     public String getName(){
-        // TODO change here
-        return "name";
+        return myName;
     }
 
 
