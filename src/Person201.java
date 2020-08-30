@@ -58,7 +58,7 @@ public class Person201 {
 
     /**
      * Returns name of this person.
-     * @return name of this person
+     * @return name of this person.
      */
     public String getName(){
         return myName;
